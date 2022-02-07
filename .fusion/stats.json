@@ -2,26 +2,68 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "76662c30ba884c46fbaf",
+  "hash": "2758af0868f323be5ff6",
   "children": [
     {
       "errors": [],
       "warnings": [],
-      "hash": "76662c30ba884c46fbaf",
-      "time": 145,
-      "builtAt": 1644259420200,
+      "hash": "2758af0868f323be5ff6",
+      "time": 180,
+      "builtAt": 1644259922172,
       "publicPath": "",
       "outputPath": "/home/sean/Projects/fusion-app/.fusion/dist/development/server",
       "assetsByChunkName": {
         "main": [
           "server-main.js",
-          "server-main.js.map"
+          "main.76662c30ba884c46fbaf.hot-update.js",
+          "server-main.js.map",
+          "main.76662c30ba884c46fbaf.hot-update.js.map"
         ]
       },
       "assets": [
         {
+          "name": "76662c30ba884c46fbaf.hot-update.json",
+          "size": 46,
+          "chunks": [],
+          "chunkNames": [],
+          "info": {
+            "hotModuleReplacement": true,
+            "immutable": true
+          },
+          "emitted": true
+        },
+        {
+          "name": "main.76662c30ba884c46fbaf.hot-update.js",
+          "size": 5269,
+          "chunks": [
+            "main"
+          ],
+          "chunkNames": [
+            "main"
+          ],
+          "info": {
+            "hotModuleReplacement": true,
+            "immutable": true
+          },
+          "emitted": true
+        },
+        {
+          "name": "main.76662c30ba884c46fbaf.hot-update.js.map",
+          "size": 3045,
+          "chunks": [
+            "main"
+          ],
+          "chunkNames": [
+            "main"
+          ],
+          "info": {
+            "development": true
+          },
+          "emitted": true
+        },
+        {
           "name": "server-main.js",
-          "size": 86146,
+          "size": 86851,
           "chunks": [
             "main"
           ],
@@ -33,7 +75,7 @@
         },
         {
           "name": "server-main.js.map",
-          "size": 65711,
+          "size": 66533,
           "chunks": [
             "main"
           ],
@@ -54,7 +96,9 @@
           ],
           "assets": [
             "server-main.js",
-            "server-main.js.map"
+            "main.76662c30ba884c46fbaf.hot-update.js",
+            "server-main.js.map",
+            "main.76662c30ba884c46fbaf.hot-update.js.map"
           ],
           "children": {},
           "childAssets": {}
@@ -67,7 +111,9 @@
           ],
           "assets": [
             "server-main.js",
-            "server-main.js.map"
+            "main.76662c30ba884c46fbaf.hot-update.js",
+            "server-main.js.map",
+            "main.76662c30ba884c46fbaf.hot-update.js.map"
           ],
           "children": {},
           "childAssets": {}
@@ -76,18 +122,20 @@
       "chunks": [
         {
           "id": "main",
-          "rendered": false,
+          "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 29767,
+          "size": 30472,
           "names": [
             "main"
           ],
           "files": [
             "server-main.js",
-            "server-main.js.map"
+            "main.76662c30ba884c46fbaf.hot-update.js",
+            "server-main.js.map",
+            "main.76662c30ba884c46fbaf.hot-update.js.map"
           ],
-          "hash": "0c76c476106f1a70fb33",
+          "hash": "a0e1943833025fc4b657",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -1461,7 +1509,7 @@
               "name": "./src/pages/users.js",
               "index": 34,
               "index2": 30,
-              "size": 2712,
+              "size": 3417,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1524,7 +1572,7 @@
               ],
               "optimizationBailout": [],
               "depth": 4,
-              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n};"
+              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
             },
             {
               "id": "./src/root.js",
@@ -4334,7 +4382,7 @@
           "name": "./src/pages/users.js",
           "index": 34,
           "index2": 30,
-          "size": 2712,
+          "size": 3417,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4397,7 +4445,7 @@
           ],
           "optimizationBailout": [],
           "depth": 4,
-          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n};"
+          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
         },
         {
           "id": "./src/root.js",

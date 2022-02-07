@@ -52,3 +52,30 @@ export const useSetState = initialState => {
   }, []);
   return [state, setCustomState];
 };
+
+// Typescript version
+/*
+Function returns 
+1) A state object 
+2) A function which accepts a partial state to merge
+*/
+
+// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {
+
+//     const [state, setState] = useState<T>(initialState);
+
+//     //function which accepts a partial state to merge
+//     const setCustomState = useCallback((newPartialState: T) => {
+
+//         try {
+//             setState((prevState): T => {
+//                 return { ...prevState, ...newPartialState };
+//             });
+//         } catch (error) {
+//             console.error(error);
+//         }
+
+//     }, []);
+
+//     return [state, setCustomState];
+// };
