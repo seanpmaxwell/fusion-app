@@ -2,27 +2,27 @@
   "errors": [],
   "warnings": [],
   "version": "4.41.2",
-  "hash": "2758af0868f323be5ff6",
+  "hash": "7dce8e83bfe75f9469d4",
   "children": [
     {
       "errors": [],
       "warnings": [],
-      "hash": "2758af0868f323be5ff6",
-      "time": 180,
-      "builtAt": 1644259922172,
+      "hash": "7dce8e83bfe75f9469d4",
+      "time": 146,
+      "builtAt": 1644260170770,
       "publicPath": "",
       "outputPath": "/home/sean/Projects/fusion-app/.fusion/dist/development/server",
       "assetsByChunkName": {
         "main": [
           "server-main.js",
-          "main.76662c30ba884c46fbaf.hot-update.js",
+          "main.7973c10f90c6ebbdede2.hot-update.js",
           "server-main.js.map",
-          "main.76662c30ba884c46fbaf.hot-update.js.map"
+          "main.7973c10f90c6ebbdede2.hot-update.js.map"
         ]
       },
       "assets": [
         {
-          "name": "76662c30ba884c46fbaf.hot-update.json",
+          "name": "7973c10f90c6ebbdede2.hot-update.json",
           "size": 46,
           "chunks": [],
           "chunkNames": [],
@@ -33,8 +33,8 @@
           "emitted": true
         },
         {
-          "name": "main.76662c30ba884c46fbaf.hot-update.js",
-          "size": 5269,
+          "name": "main.7973c10f90c6ebbdede2.hot-update.js",
+          "size": 4060,
           "chunks": [
             "main"
           ],
@@ -48,8 +48,8 @@
           "emitted": true
         },
         {
-          "name": "main.76662c30ba884c46fbaf.hot-update.js.map",
-          "size": 3045,
+          "name": "main.7973c10f90c6ebbdede2.hot-update.js.map",
+          "size": 2369,
           "chunks": [
             "main"
           ],
@@ -63,7 +63,7 @@
         },
         {
           "name": "server-main.js",
-          "size": 86851,
+          "size": 88416,
           "chunks": [
             "main"
           ],
@@ -75,7 +75,7 @@
         },
         {
           "name": "server-main.js.map",
-          "size": 66533,
+          "size": 67007,
           "chunks": [
             "main"
           ],
@@ -96,9 +96,9 @@
           ],
           "assets": [
             "server-main.js",
-            "main.76662c30ba884c46fbaf.hot-update.js",
+            "main.7973c10f90c6ebbdede2.hot-update.js",
             "server-main.js.map",
-            "main.76662c30ba884c46fbaf.hot-update.js.map"
+            "main.7973c10f90c6ebbdede2.hot-update.js.map"
           ],
           "children": {},
           "childAssets": {}
@@ -111,9 +111,9 @@
           ],
           "assets": [
             "server-main.js",
-            "main.76662c30ba884c46fbaf.hot-update.js",
+            "main.7973c10f90c6ebbdede2.hot-update.js",
             "server-main.js.map",
-            "main.76662c30ba884c46fbaf.hot-update.js.map"
+            "main.7973c10f90c6ebbdede2.hot-update.js.map"
           ],
           "children": {},
           "childAssets": {}
@@ -125,17 +125,17 @@
           "rendered": true,
           "initial": true,
           "entry": true,
-          "size": 30472,
+          "size": 30991,
           "names": [
             "main"
           ],
           "files": [
             "server-main.js",
-            "main.76662c30ba884c46fbaf.hot-update.js",
+            "main.7973c10f90c6ebbdede2.hot-update.js",
             "server-main.js.map",
-            "main.76662c30ba884c46fbaf.hot-update.js.map"
+            "main.7973c10f90c6ebbdede2.hot-update.js.map"
           ],
-          "hash": "a0e1943833025fc4b657",
+          "hash": "f47740e351b52f3a42d3",
           "siblings": [],
           "parents": [],
           "children": [],
@@ -146,7 +146,7 @@
               "identifier": "multi /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-public-path.js /home/sean/Projects/fusion-app/node_modules/webpack/hot/poll.js?1000 /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
               "name": "multi ./node_modules/fusion-cli/entries/server-public-path.js (webpack)/hot/poll.js?1000 ./node_modules/fusion-cli/entries/server-entry.js",
               "index": 0,
-              "index2": 35,
+              "index2": 36,
               "size": 52,
               "built": false,
               "optional": false,
@@ -646,7 +646,7 @@
               "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
               "name": "./node_modules/fusion-cli/entries/server-entry.js",
               "index": 7,
-              "index2": 34,
+              "index2": 35,
               "size": 3021,
               "cacheable": true,
               "built": false,
@@ -1299,7 +1299,7 @@
               "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/main.js",
               "name": "./src/main.js",
               "index": 27,
-              "index2": 33,
+              "index2": 34,
               "size": 287,
               "cacheable": true,
               "built": false,
@@ -1423,7 +1423,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "./pages/home.js",
-                  "loc": "16:13-17"
+                  "loc": "17:13-17"
                 }
               ],
               "providedExports": [
@@ -1437,8 +1437,8 @@
               "id": "./src/pages/pageNotFound.js",
               "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/pageNotFound.js",
               "name": "./src/pages/pageNotFound.js",
-              "index": 35,
-              "index2": 31,
+              "index": 36,
+              "index2": 32,
               "size": 454,
               "cacheable": true,
               "built": false,
@@ -1484,7 +1484,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./pages/pageNotFound.js",
-                  "loc": "6:0-51"
+                  "loc": "7:0-51"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -1493,7 +1493,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "./pages/pageNotFound.js",
-                  "loc": "32:13-25"
+                  "loc": "42:13-25"
                 }
               ],
               "providedExports": [
@@ -1504,12 +1504,82 @@
               "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/pageNotFound.js\";\nimport React from 'react';\nimport { NotFound } from 'fusion-plugin-react-router';\n\nconst PageNotFound = () => React.createElement(NotFound, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 6\n  },\n  __self: this\n}, React.createElement(\"div\", {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 7\n  },\n  __self: this\n}, \"404\"));\n\nexport default PageNotFound;"
             },
             {
-              "id": "./src/pages/users.js",
-              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "name": "./src/pages/users.js",
+              "id": "./src/pages/users-dispatch.js",
+              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "name": "./src/pages/users-dispatch.js",
               "index": 34,
               "index2": 30,
-              "size": 3417,
+              "size": 1304,
+              "cacheable": true,
+              "built": false,
+              "optional": false,
+              "prefetched": false,
+              "chunks": [
+                "main"
+              ],
+              "issuer": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "issuerId": "./src/root.js",
+              "issuerName": "./src/root.js",
+              "issuerPath": [
+                {
+                  "id": 0,
+                  "identifier": "multi /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-public-path.js /home/sean/Projects/fusion-app/node_modules/webpack/hot/poll.js?1000 /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
+                  "name": "multi ./node_modules/fusion-cli/entries/server-public-path.js (webpack)/hot/poll.js?1000 ./node_modules/fusion-cli/entries/server-entry.js"
+                },
+                {
+                  "id": "./node_modules/fusion-cli/entries/server-entry.js",
+                  "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
+                  "name": "./node_modules/fusion-cli/entries/server-entry.js"
+                },
+                {
+                  "id": "./src/main.js",
+                  "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/main.js",
+                  "name": "./src/main.js"
+                },
+                {
+                  "id": "./src/root.js",
+                  "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+                  "name": "./src/root.js"
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleId": "./src/root.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+                  "module": "./src/root.js",
+                  "moduleName": "./src/root.js",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "./pages/users-dispatch.js",
+                  "loc": "5:0-46"
+                },
+                {
+                  "moduleId": "./src/root.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+                  "module": "./src/root.js",
+                  "moduleName": "./src/root.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "./pages/users-dispatch.js",
+                  "loc": "26:13-18"
+                }
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [],
+              "depth": 4,
+              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users-dispatch.js\";\nimport React from 'react';\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n}"
+            },
+            {
+              "id": "./src/pages/users-setstate.js",
+              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "name": "./src/pages/users-setstate.js",
+              "index": 35,
+              "index2": 31,
+              "size": 2406,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1553,8 +1623,8 @@
                   "module": "./src/root.js",
                   "moduleName": "./src/root.js",
                   "type": "harmony side effect evaluation",
-                  "userRequest": "./pages/users.js",
-                  "loc": "5:0-37"
+                  "userRequest": "./pages/users-setstate.js",
+                  "loc": "6:0-47"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -1562,8 +1632,8 @@
                   "module": "./src/root.js",
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
-                  "userRequest": "./pages/users.js",
-                  "loc": "25:13-18"
+                  "userRequest": "./pages/users-setstate.js",
+                  "loc": "35:13-19"
                 }
               ],
               "providedExports": [
@@ -1572,15 +1642,15 @@
               ],
               "optimizationBailout": [],
               "depth": 4,
-              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
+              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users-setstate.js\";\nimport React from 'react';\nexport default function Users() {\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
             },
             {
               "id": "./src/root.js",
               "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
               "name": "./src/root.js",
               "index": 31,
-              "index2": 32,
-              "size": 895,
+              "index2": 33,
+              "size": 1121,
               "cacheable": true,
               "built": false,
               "optional": false,
@@ -1637,7 +1707,7 @@
               ],
               "optimizationBailout": [],
               "depth": 3,
-              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/root.js\";\nimport React from 'react';\nimport { Route, Switch } from 'fusion-plugin-react-router';\nimport Home from './pages/home.js';\nimport Users from './pages/users.js';\nimport PageNotFound from './pages/pageNotFound.js';\nconst root = React.createElement(Switch, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 10\n  },\n  __self: this\n}, React.createElement(Route, {\n  exact: true,\n  path: \"/\",\n  component: Home,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 11\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/users\",\n  component: Users,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 12\n  },\n  __self: this\n}), React.createElement(Route, {\n  component: PageNotFound,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 13\n  },\n  __self: this\n}));\nexport default root;"
+              "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/root.js\";\nimport React from 'react';\nimport { Route, Switch } from 'fusion-plugin-react-router';\nimport Home from './pages/home.js';\nimport Users from './pages/users-dispatch.js';\nimport Userss from './pages/users-setstate.js';\nimport PageNotFound from './pages/pageNotFound.js';\nconst root = React.createElement(Switch, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 11\n  },\n  __self: this\n}, React.createElement(Route, {\n  exact: true,\n  path: \"/\",\n  component: Home,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 12\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/users\",\n  component: Users,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 13\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/userss\",\n  component: Userss,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 14\n  },\n  __self: this\n}), React.createElement(Route, {\n  component: PageNotFound,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 15\n  },\n  __self: this\n}));\nexport default root;"
             },
             {
               "id": "assert",
@@ -2111,7 +2181,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "fusion-plugin-react-router",
-                  "loc": "7:33-39"
+                  "loc": "8:33-39"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2120,7 +2190,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "fusion-plugin-react-router",
-                  "loc": "13:23-28"
+                  "loc": "14:23-28"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2129,7 +2199,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "fusion-plugin-react-router",
-                  "loc": "22:24-29"
+                  "loc": "23:24-29"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2138,7 +2208,16 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "fusion-plugin-react-router",
-                  "loc": "31:24-29"
+                  "loc": "32:24-29"
+                },
+                {
+                  "moduleId": "./src/root.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+                  "module": "./src/root.js",
+                  "moduleName": "./src/root.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "fusion-plugin-react-router",
+                  "loc": "41:24-29"
                 }
               ],
               "providedExports": null,
@@ -2703,139 +2782,157 @@
                   "loc": "11:3-8"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "react",
                   "loc": "2:0-26"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "5:29-34"
+                  "loc": "4:29-34"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "7:9-14"
+                  "loc": "5:9-14"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "13:5-10"
+                  "loc": "11:5-10"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "19:24-29"
+                  "loc": "17:24-29"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "25:20-25"
+                  "loc": "23:20-25"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "31:29-34"
+                  "loc": "29:29-34"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-dispatch.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+                  "module": "./src/pages/users-dispatch.js",
+                  "moduleName": "./src/pages/users-dispatch.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "37:31-36"
+                  "loc": "35:31-36"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
-                  "type": "harmony import specifier",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
+                  "type": "harmony side effect evaluation",
                   "userRequest": "react",
-                  "loc": "47:15-20"
+                  "loc": "2:0-26"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "53:29-34"
+                  "loc": "5:9-14"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "59:20-25"
+                  "loc": "11:5-10"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "65:28-33"
+                  "loc": "17:29-34"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "71:30-35"
+                  "loc": "23:20-25"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "98:28-33"
+                  "loc": "29:28-33"
                 },
                 {
-                  "moduleId": "./src/pages/users.js",
-                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-                  "module": "./src/pages/users.js",
-                  "moduleName": "./src/pages/users.js",
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "100:25-30"
+                  "loc": "35:30-35"
+                },
+                {
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "react",
+                  "loc": "56:28-33"
+                },
+                {
+                  "moduleId": "./src/pages/users-setstate.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+                  "module": "./src/pages/users-setstate.js",
+                  "moduleName": "./src/pages/users-setstate.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "react",
+                  "loc": "58:25-30"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2853,7 +2950,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "7:13-18"
+                  "loc": "8:13-18"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2862,7 +2959,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "13:3-8"
+                  "loc": "14:3-8"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2871,7 +2968,7 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "22:4-9"
+                  "loc": "23:4-9"
                 },
                 {
                   "moduleId": "./src/root.js",
@@ -2880,7 +2977,16 @@
                   "moduleName": "./src/root.js",
                   "type": "harmony import specifier",
                   "userRequest": "react",
-                  "loc": "31:4-9"
+                  "loc": "32:4-9"
+                },
+                {
+                  "moduleId": "./src/root.js",
+                  "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+                  "module": "./src/root.js",
+                  "moduleName": "./src/root.js",
+                  "type": "harmony import specifier",
+                  "userRequest": "react",
+                  "loc": "41:4-9"
                 }
               ],
               "providedExports": null,
@@ -3019,7 +3125,7 @@
           "identifier": "multi /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-public-path.js /home/sean/Projects/fusion-app/node_modules/webpack/hot/poll.js?1000 /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
           "name": "multi ./node_modules/fusion-cli/entries/server-public-path.js (webpack)/hot/poll.js?1000 ./node_modules/fusion-cli/entries/server-entry.js",
           "index": 0,
-          "index2": 35,
+          "index2": 36,
           "size": 52,
           "built": false,
           "optional": false,
@@ -3519,7 +3625,7 @@
           "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
           "name": "./node_modules/fusion-cli/entries/server-entry.js",
           "index": 7,
-          "index2": 34,
+          "index2": 35,
           "size": 3021,
           "cacheable": true,
           "built": false,
@@ -4172,7 +4278,7 @@
           "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/main.js",
           "name": "./src/main.js",
           "index": 27,
-          "index2": 33,
+          "index2": 34,
           "size": 287,
           "cacheable": true,
           "built": false,
@@ -4296,7 +4402,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "./pages/home.js",
-              "loc": "16:13-17"
+              "loc": "17:13-17"
             }
           ],
           "providedExports": [
@@ -4310,8 +4416,8 @@
           "id": "./src/pages/pageNotFound.js",
           "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/pageNotFound.js",
           "name": "./src/pages/pageNotFound.js",
-          "index": 35,
-          "index2": 31,
+          "index": 36,
+          "index2": 32,
           "size": 454,
           "cacheable": true,
           "built": false,
@@ -4357,7 +4463,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./pages/pageNotFound.js",
-              "loc": "6:0-51"
+              "loc": "7:0-51"
             },
             {
               "moduleId": "./src/root.js",
@@ -4366,7 +4472,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "./pages/pageNotFound.js",
-              "loc": "32:13-25"
+              "loc": "42:13-25"
             }
           ],
           "providedExports": [
@@ -4377,12 +4483,82 @@
           "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/pageNotFound.js\";\nimport React from 'react';\nimport { NotFound } from 'fusion-plugin-react-router';\n\nconst PageNotFound = () => React.createElement(NotFound, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 6\n  },\n  __self: this\n}, React.createElement(\"div\", {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 7\n  },\n  __self: this\n}, \"404\"));\n\nexport default PageNotFound;"
         },
         {
-          "id": "./src/pages/users.js",
-          "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-          "name": "./src/pages/users.js",
+          "id": "./src/pages/users-dispatch.js",
+          "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+          "name": "./src/pages/users-dispatch.js",
           "index": 34,
           "index2": 30,
-          "size": 3417,
+          "size": 1304,
+          "cacheable": true,
+          "built": false,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            "main"
+          ],
+          "issuer": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+          "issuerId": "./src/root.js",
+          "issuerName": "./src/root.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "multi /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-public-path.js /home/sean/Projects/fusion-app/node_modules/webpack/hot/poll.js?1000 /home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
+              "name": "multi ./node_modules/fusion-cli/entries/server-public-path.js (webpack)/hot/poll.js?1000 ./node_modules/fusion-cli/entries/server-entry.js"
+            },
+            {
+              "id": "./node_modules/fusion-cli/entries/server-entry.js",
+              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/node_modules/fusion-cli/entries/server-entry.js",
+              "name": "./node_modules/fusion-cli/entries/server-entry.js"
+            },
+            {
+              "id": "./src/main.js",
+              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/main.js",
+              "name": "./src/main.js"
+            },
+            {
+              "id": "./src/root.js",
+              "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "name": "./src/root.js"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": "./src/root.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "module": "./src/root.js",
+              "moduleName": "./src/root.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./pages/users-dispatch.js",
+              "loc": "5:0-46"
+            },
+            {
+              "moduleId": "./src/root.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "module": "./src/root.js",
+              "moduleName": "./src/root.js",
+              "type": "harmony import specifier",
+              "userRequest": "./pages/users-dispatch.js",
+              "loc": "26:13-18"
+            }
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 4,
+          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users-dispatch.js\";\nimport React from 'react';\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n}"
+        },
+        {
+          "id": "./src/pages/users-setstate.js",
+          "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+          "name": "./src/pages/users-setstate.js",
+          "index": 35,
+          "index2": 31,
+          "size": 2406,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4426,8 +4602,8 @@
               "module": "./src/root.js",
               "moduleName": "./src/root.js",
               "type": "harmony side effect evaluation",
-              "userRequest": "./pages/users.js",
-              "loc": "5:0-37"
+              "userRequest": "./pages/users-setstate.js",
+              "loc": "6:0-47"
             },
             {
               "moduleId": "./src/root.js",
@@ -4435,8 +4611,8 @@
               "module": "./src/root.js",
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
-              "userRequest": "./pages/users.js",
-              "loc": "25:13-18"
+              "userRequest": "./pages/users-setstate.js",
+              "loc": "35:13-19"
             }
           ],
           "providedExports": [
@@ -4445,15 +4621,15 @@
           ],
           "optimizationBailout": [],
           "depth": 4,
-          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users.js\";\nimport React from 'react'; // import {styled} from 'fusion-plugin-styletron-react';\n\nexport default function Users() {\n  const [stated, dispatch] = React.useReducer(reducer, init());\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Dispatch Stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Name: \", stated.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 13\n    },\n    __self: this\n  }, \"Count: \", stated.count), React.createElement(\"button\", {\n    onClick: () => dispatch({\n      type: 'CHANGE_COUNTER',\n      payload: 5\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 14\n    },\n    __self: this\n  }, \"Hello\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 17\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 18\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 19\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 20\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 21\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n}\n\nfunction reducer(state, action) {\n  return { ...state,\n    count: action.payload\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
+          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/pages/users-setstate.js\";\nimport React from 'react';\nexport default function Users() {\n  const [state, setState] = useSetState(init());\n  return React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 7\n    },\n    __self: this\n  }, React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 8\n    },\n    __self: this\n  }, \"Use set state stuff\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 9\n    },\n    __self: this\n  }, \"Users Page\"), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 10\n    },\n    __self: this\n  }, \"Name: \", state.name), React.createElement(\"div\", {\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 11\n    },\n    __self: this\n  }, \"Count: \", state.count), React.createElement(\"button\", {\n    onClick: () => setState({\n      count: state.count + 1\n    }),\n    __source: {\n      fileName: _jsxFileName,\n      lineNumber: 12\n    },\n    __self: this\n  }, \"Hello\"));\n}\n\nfunction init() {\n  return {\n    name: 'Horse',\n    count: 0\n  };\n} // https://www.vrdmn.com/2020/05/working-with-spfx-and-react-hooks.html\n\n\nexport const useSetState = initialState => {\n  const [state, setState] = React.useState(initialState); //function which accepts a partial state to merge\n\n  const setCustomState = React.useCallback(newPartialState => {\n    try {\n      setState(prevState => {\n        return { ...prevState,\n          ...newPartialState\n        };\n      });\n    } catch (error) {\n      console.error(error);\n    }\n  }, []);\n  return [state, setCustomState];\n}; // Typescript version\n\n/*\nFunction returns \n1) A state object \n2) A function which accepts a partial state to merge\n*/\n// export const useCustomState = <T extends object>(initialState: T): [T, (newPartialState: Partial<T>) => void] => {\n//     const [state, setState] = useState<T>(initialState);\n//     //function which accepts a partial state to merge\n//     const setCustomState = useCallback((newPartialState: T) => {\n//         try {\n//             setState((prevState): T => {\n//                 return { ...prevState, ...newPartialState };\n//             });\n//         } catch (error) {\n//             console.error(error);\n//         }\n//     }, []);\n//     return [state, setCustomState];\n// };"
         },
         {
           "id": "./src/root.js",
           "identifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
           "name": "./src/root.js",
           "index": 31,
-          "index2": 32,
-          "size": 895,
+          "index2": 33,
+          "size": 1121,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -4510,7 +4686,7 @@
           ],
           "optimizationBailout": [],
           "depth": 3,
-          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/root.js\";\nimport React from 'react';\nimport { Route, Switch } from 'fusion-plugin-react-router';\nimport Home from './pages/home.js';\nimport Users from './pages/users.js';\nimport PageNotFound from './pages/pageNotFound.js';\nconst root = React.createElement(Switch, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 10\n  },\n  __self: this\n}, React.createElement(Route, {\n  exact: true,\n  path: \"/\",\n  component: Home,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 11\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/users\",\n  component: Users,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 12\n  },\n  __self: this\n}), React.createElement(Route, {\n  component: PageNotFound,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 13\n  },\n  __self: this\n}));\nexport default root;"
+          "source": "var _jsxFileName = \"/home/sean/Projects/fusion-app/src/root.js\";\nimport React from 'react';\nimport { Route, Switch } from 'fusion-plugin-react-router';\nimport Home from './pages/home.js';\nimport Users from './pages/users-dispatch.js';\nimport Userss from './pages/users-setstate.js';\nimport PageNotFound from './pages/pageNotFound.js';\nconst root = React.createElement(Switch, {\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 11\n  },\n  __self: this\n}, React.createElement(Route, {\n  exact: true,\n  path: \"/\",\n  component: Home,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 12\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/users\",\n  component: Users,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 13\n  },\n  __self: this\n}), React.createElement(Route, {\n  exact: true,\n  path: \"/userss\",\n  component: Userss,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 14\n  },\n  __self: this\n}), React.createElement(Route, {\n  component: PageNotFound,\n  __source: {\n    fileName: _jsxFileName,\n    lineNumber: 15\n  },\n  __self: this\n}));\nexport default root;"
         },
         {
           "id": "assert",
@@ -4984,7 +5160,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "fusion-plugin-react-router",
-              "loc": "7:33-39"
+              "loc": "8:33-39"
             },
             {
               "moduleId": "./src/root.js",
@@ -4993,7 +5169,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "fusion-plugin-react-router",
-              "loc": "13:23-28"
+              "loc": "14:23-28"
             },
             {
               "moduleId": "./src/root.js",
@@ -5002,7 +5178,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "fusion-plugin-react-router",
-              "loc": "22:24-29"
+              "loc": "23:24-29"
             },
             {
               "moduleId": "./src/root.js",
@@ -5011,7 +5187,16 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "fusion-plugin-react-router",
-              "loc": "31:24-29"
+              "loc": "32:24-29"
+            },
+            {
+              "moduleId": "./src/root.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "module": "./src/root.js",
+              "moduleName": "./src/root.js",
+              "type": "harmony import specifier",
+              "userRequest": "fusion-plugin-react-router",
+              "loc": "41:24-29"
             }
           ],
           "providedExports": null,
@@ -5576,139 +5761,157 @@
               "loc": "11:3-8"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony side effect evaluation",
               "userRequest": "react",
               "loc": "2:0-26"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "5:29-34"
+              "loc": "4:29-34"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "7:9-14"
+              "loc": "5:9-14"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "13:5-10"
+              "loc": "11:5-10"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "19:24-29"
+              "loc": "17:24-29"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "25:20-25"
+              "loc": "23:20-25"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "31:29-34"
+              "loc": "29:29-34"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-dispatch.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-dispatch.js",
+              "module": "./src/pages/users-dispatch.js",
+              "moduleName": "./src/pages/users-dispatch.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "37:31-36"
+              "loc": "35:31-36"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
-              "type": "harmony import specifier",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
+              "type": "harmony side effect evaluation",
               "userRequest": "react",
-              "loc": "47:15-20"
+              "loc": "2:0-26"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "53:29-34"
+              "loc": "5:9-14"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "59:20-25"
+              "loc": "11:5-10"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "65:28-33"
+              "loc": "17:29-34"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "71:30-35"
+              "loc": "23:20-25"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "98:28-33"
+              "loc": "29:28-33"
             },
             {
-              "moduleId": "./src/pages/users.js",
-              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users.js",
-              "module": "./src/pages/users.js",
-              "moduleName": "./src/pages/users.js",
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "100:25-30"
+              "loc": "35:30-35"
+            },
+            {
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "56:28-33"
+            },
+            {
+              "moduleId": "./src/pages/users-setstate.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/pages/users-setstate.js",
+              "module": "./src/pages/users-setstate.js",
+              "moduleName": "./src/pages/users-setstate.js",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "58:25-30"
             },
             {
               "moduleId": "./src/root.js",
@@ -5726,7 +5929,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "7:13-18"
+              "loc": "8:13-18"
             },
             {
               "moduleId": "./src/root.js",
@@ -5735,7 +5938,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "13:3-8"
+              "loc": "14:3-8"
             },
             {
               "moduleId": "./src/root.js",
@@ -5744,7 +5947,7 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "22:4-9"
+              "loc": "23:4-9"
             },
             {
               "moduleId": "./src/root.js",
@@ -5753,7 +5956,16 @@
               "moduleName": "./src/root.js",
               "type": "harmony import specifier",
               "userRequest": "react",
-              "loc": "31:4-9"
+              "loc": "32:4-9"
+            },
+            {
+              "moduleId": "./src/root.js",
+              "moduleIdentifier": "/home/sean/Projects/fusion-app/node_modules/fusion-cli/build/loaders/babel-loader.js??ref--4-0!/home/sean/Projects/fusion-app/src/root.js",
+              "module": "./src/root.js",
+              "moduleName": "./src/root.js",
+              "type": "harmony import specifier",
+              "userRequest": "react",
+              "loc": "41:4-9"
             }
           ],
           "providedExports": null,
